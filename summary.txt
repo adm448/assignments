@@ -1,0 +1,62 @@
+  1. BIOGUIDE_ID
+	<class 'str'>
+	Nulls: True
+	Values: C001048
+  2. OFFICE
+	<class 'str'>
+	Nulls: False
+	Values: MISC - GRATUITIES, HON. JOHN ABNEY CULBERSON
+  3. QUARTER
+	<class 'str'>
+	Nulls: False
+	Values: 2017Q1
+  4. PROGRAM
+	<class 'str'>
+	Nulls: False
+	Values: MISC - GRATUITIES, OFFICIAL EXPENSES OF MEMBERS
+  5. CATEGORY
+	<class 'str'>
+	Nulls: False
+	Values: BENEFITS TO FORMER PERSONNEL
+  6. DATE
+	<class 'datetime.date'>
+	Nulls: True
+	Values: 2017-03-16
+  7. TRANSCODE
+	<class 'str'>
+	Nulls: False
+	Values: AP
+  8. RECORDID
+	<class 'str'>
+	Nulls: True
+	Values: E0497109
+  9. PAYEE
+	<class 'str'>
+	Nulls: False
+	Values: DONNA J BEIDEL, GAHUN JAMIE H.
+ 10. START DATE
+	<class 'datetime.date'>
+	Nulls: False
+	Values: 2017-02-09, 2016-12-14
+ 11. END DATE
+	<class 'datetime.date'>
+	Nulls: False
+	Values: 2016-12-16, 2017-02-09
+ 12. PURPOSE
+	<class 'str'>
+	Nulls: False
+	Values: GRATUITIES
+ 13. AMOUNT
+	<class 'int'>
+	Nulls: False
+	Values: -5, 5, 168411
+ 14. YEAR
+	<class 'int'>
+	Nulls: False
+	Values: 2016, 2017
+ 15. RECIP (orig.)
+	<class 'str'>
+	Nulls: False
+	Values: DONNA J BEIDEL, GAHUN JAMIE H.
+
+Row count: 3
