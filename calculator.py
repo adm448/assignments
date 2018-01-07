@@ -16,6 +16,9 @@ def square(a):
 def cube(a):
 	return a ** 3
 
+def square_n_times(a,n):
+	return (square(a)) ** n 
+
 print "I'm going to use the calculator functions to multiply 5 and 6"
 x = multiply(5,6)
 print x
@@ -27,3 +30,5 @@ print y
 print "Let's also test the cube function with 2"
 z = cube(2)
 print z
+
+print square_n_times(5,2)
